@@ -1,0 +1,20 @@
+https://www.meetup.com/VanLUG-BC/events/262338463/comments/502238358/
+https://github.com/CanadianJeff
+https://blog.senr.io/blog/jtag-explained
+
+
+Firstly, Jeff will review how to install OpenWRT firmware on any
+supported router, and how to recover from problems. Then he'll discuss
+collecting and sharing suspicious IP addresses with other router owners
+and websites such as firehol.org, to collectively develop and evaluate
+the reputation of such IPs. This combination of multiple reports helps
+to resolve the problem of false positives frequently experienced with
+blacklists. Jeff prefers to use OpenWRT rather than PFSense, because of
+its IPSet module which enables this capability.
+
+Jeff Wilkins in a true hacker. His grasp of security issues is not only
+comprehensive, but pro-active. He has investigated many security
+problems and provided companies with analyses and suggestions to improve
+their products. His honeypots have identified bot-nets around the world
+and he works to disrupt their use for things like spam. Jeff is
+currently one of two of VanLUG's co-webmasters.
